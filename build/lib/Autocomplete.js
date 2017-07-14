@@ -18,7 +18,7 @@ var _require = require('react-dom'),
 
 var scrollIntoView = require('dom-scroll-into-view');
 
-var IMPERATIVE_API = ['blur', 'checkValidity', 'click', 'focus', 'select', 'setCustomValidity', 'setSelectionRange', 'setRangeText', 'onkeyup', 'onkeydown', 'onkeypress'];
+var IMPERATIVE_API = ['blur', 'checkValidity', 'click', 'focus', 'select', 'setCustomValidity', 'setSelectionRange', 'setRangeText', 'onKeyUp', 'onKeyDown', 'onKeyPress'];
 
 function getScrollOffset() {
   return {
